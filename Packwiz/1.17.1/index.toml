@@ -88,6 +88,11 @@ hash = "5db5823578bbc8f2d1389439e42d13fe2254b2833f5784d07d833b806df2fc4c"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.toml"
+hash = "b71e8ca90b02d43900126599e6112d8759d75d1fc9eafb988d5c66b4f1210577"
+metafile = true
+
+[[files]]
 file = "mods/architectury-fabric.toml"
 hash = "c1ac0ea5003f230698651f3ea3a3a1d53e87de3add18c41409bf29d7f1d53f3a"
 metafile = true
@@ -95,6 +100,11 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.toml"
 hash = "305f28a2361765477b348ac3d034053808bce0ab2989873a1ddd9c35ce455b45"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.toml"
+hash = "e6b6e4fd02c1f39429538e13fa222dc61584e19cfcc6e4c037c38a9a1b375f2b"
 metafile = true
 
 [[files]]
@@ -179,7 +189,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "ef41380ef2612b9d2b0c2aa81e10d13a8116a956f8e67de96c3115619562520c"
+hash = "274c0a33dd2d7b4bdc99978fa11b83f6b74deb0b1795303a968234f1eea241fc"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.toml"
+hash = "a11422361e405f0f9d959d5d29dbbc53920fc72998f08393c51fb2f8be7eece2"
 metafile = true
 
 [[files]]
@@ -190,6 +205,11 @@ metafile = true
 [[files]]
 file = "mods/indium.toml"
 hash = "7f298bc09aeec405b8cfc2a0c0b2f4df0dfa8ebacb1747a7848b002dcc5264bc"
+metafile = true
+
+[[files]]
+file = "mods/inventory-hud-forge.toml"
+hash = "01be6516b475797e8a29774ffb439442e6d15d14f8852081cd22dda1e2d15a1a"
 metafile = true
 
 [[files]]
@@ -220,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.toml"
 hash = "b47b2d6351087ad346299faff6daca6047870901fa3ce4c9a79bda719db0a74b"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.toml"
+hash = "99dd1808be62aa4a8af5e43c3946b76965cfae3830280a0f6ee9d4dfe5ebe712"
 metafile = true
 
 [[files]]
@@ -285,6 +310,21 @@ metafile = true
 [[files]]
 file = "mods/wi-zoom.toml"
 hash = "acc7a3d78125c57ebef774099e7dadae8b9249032b030c598569377f10fe4384"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.toml"
+hash = "2c7ce18720177769ef11988a2353eec4458fbc7a85c17d7226e06f872ca19864"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "7e9c2f919584025f72a1820dda49185571d9be0f00942e5f9b266ff9c3e4a55e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "eba5948a3ab356cbdd9773170dc6cfac03e6ed16af1ec7d1c2490e6d69dfd42e"
 metafile = true
 
 [[files]]
