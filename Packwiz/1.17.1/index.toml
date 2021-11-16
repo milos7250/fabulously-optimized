@@ -124,12 +124,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
+hash = "1bbb7759542ccebcf1d5157dd889050c371277b8d26f7c1b9b18f0968ad7c33d"
 metafile = true
 
 [[files]]
 file = "mods/colormatic.toml"
-hash = "ed3b4fe8523e09ea329c0c25d11625cc025320feebd8137b1547ef6e9360f826"
+hash = "8ce725c32e1c950da3f7f8982b3aec818c71a6d203716d8a0aca78fb01f69987"
 metafile = true
 
 [[files]]
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "e11cd0bb2c67e18dd77ea6cbf0a26bc237662057c9854b5ddb58a64c12fa4acb"
+hash = "b9537aa95cf1b5d56ffeeee6f771b93d7ef70a7f53c2ed1009d85bdc44980810"
 metafile = true
 
 [[files]]
@@ -319,12 +319,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "7e9c2f919584025f72a1820dda49185571d9be0f00942e5f9b266ff9c3e4a55e"
+hash = "340b31817d219d0fb80973ee34662c74207850b21e57fb7623899cc71929d34f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "eba5948a3ab356cbdd9773170dc6cfac03e6ed16af1ec7d1c2490e6d69dfd42e"
+hash = "3eba08f3cb78d9b5c26e2f2e7d4f2510e1d65a0e4544c2859c6483459e8ed256"
 metafile = true
 
 [[files]]
