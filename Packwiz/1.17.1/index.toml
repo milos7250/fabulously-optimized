@@ -6,11 +6,15 @@ hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "84b82b6a4610dcf0f2992d3b86a3abfb8748c54ada513020bae4154581f012ea"
+hash = "745da5107ecb302f0bdcc3871db964a105f50745730c59882c0e7c3bfbbfe9b0"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "35d14c771ad88489bca62bee751dba9f669988016bfa65b9fc26de26a151bcb9"
+hash = "0347867062ec4ddbb97a4826e5808a13c661f7ab2ba017e86b3d385aa954e81b"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -49,16 +53,12 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "1a0c50101df35b82a3015882331c4b1b76bec59a05c25cac50bff3547b891f25"
 
 [[files]]
-file = "config/yosbr/config/midnightlib.json"
-hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
-
-[[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "cf0aaef402dc0b2be5b09f9f9a99f81c9ff64f585e077b0fdad7655b13a6055c"
+hash = "363188965154bf65b2151d6695a35c2588ae7b185a4a761e5a1d6b084259d0b2"
 
 [[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
-hash = "c44249c87c48216b9ce39bd233b88e2a5e901fb7589b54cee79ac566bcb0c018"
+hash = "7da931e9b7389034de203f2719b99ab74ab8e500a898ad5d563d64f13c501120"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -74,7 +74,7 @@ hash = "040239c0e00a49830917b1b2e2332a393b7d90f5366b5e1efd846a51df8b815d"
 
 [[files]]
 file = "mods/advancementinfo.toml"
-hash = "4bdd914cc09497cbfa0122dab0f888f4bfd8d144a394db1746a592c95667fba7"
+hash = "6a8810f580393762531fe79c4af28bf577040f17450e758dfebb1c43cbb5d525"
 metafile = true
 
 [[files]]
@@ -174,12 +174,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "76fac2cfd09d5b73e428a698f9ad1fc4e7ed59f807997d848c5bf9a5024a87ac"
+hash = "2f970b28080ecc5747bcdb329eee6052284afee3fb90fe6a085fce74b6075702"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "3b55a084c08b2afd69c50bb00a802abc4387ecb1ce3525fe9db36a1ade7fde9c"
+hash = "2b634fc55b8dbb2dd91049f60073cd2fc90ae7d26287ff34c4973fd66fb259d6"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "7f298bc09aeec405b8cfc2a0c0b2f4df0dfa8ebacb1747a7848b002dcc5264bc"
+hash = "425236cb0111a91a12ebe0fabeef9143563a642885bf208dc11070729668ac54"
 metafile = true
 
 [[files]]
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "b9537aa95cf1b5d56ffeeee6f771b93d7ef70a7f53c2ed1009d85bdc44980810"
+hash = "61554b360052d048d2a47a510945a757e2263d19bc72fa239e9b1a5f5ebccd2e"
 metafile = true
 
 [[files]]
@@ -319,12 +319,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "340b31817d219d0fb80973ee34662c74207850b21e57fb7623899cc71929d34f"
+hash = "d8837cf71080bfe972225340adf3e52d4aef6fa64ad614f4ebca051f8620d92b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "3eba08f3cb78d9b5c26e2f2e7d4f2510e1d65a0e4544c2859c6483459e8ed256"
+hash = "4f266bcef5019940bf8b268cc479e52a518474827883dd2b537f39ebe5f04684"
 metafile = true
 
 [[files]]
@@ -334,4 +334,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "44cd88883b1376481973072594ff26a661d11e6839186f1a7c6e876c9677710e"
+hash = "095546774e35e6466c659a2236ce497cb7c46465055c699abf100a33b334a963"
