@@ -18,7 +18,7 @@ hash = "8ea79f86612f7167b3dfb547adddb6a838c4f44d6fc1459273d9db7bdf37ebd8"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "96cbb35ebeecea3a0e502cca9cfb2577c707e1d78d73263b8b31d797b42b4676"
+hash = "f8ca5595331765f29aa120540c779678687d3d6e6ed99f46724186ea078db21e"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -259,6 +259,14 @@ metafile = true
 file = "mods/yosbr.toml"
 hash = "25ba1f543d497256054d05bbbab6e0c4f5aa9796cd53191d4b381297fd98c81d"
 metafile = true
+
+[[files]]
+file = "resourcepacks/1.18.zip"
+hash = "d5df1733c677ee9bba4246b67610e23149fe1f80d109031a32db5a20344bb7e2"
+
+[[files]]
+file = "resourcepacks/Canvas v256 Up.60.zip"
+hash = "0396747bfca08f580cfb8d5d2998730287cdfc1c91544a212e16ebc1442ed186"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
