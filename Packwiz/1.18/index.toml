@@ -18,7 +18,7 @@ hash = "8ea79f86612f7167b3dfb547adddb6a838c4f44d6fc1459273d9db7bdf37ebd8"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "f8ca5595331765f29aa120540c779678687d3d6e6ed99f46724186ea078db21e"
+hash = "8001ad8bc9162509c5f3c358463a81594d996fce4ab32a12ccc3c5e53cfde61c"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -213,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "65580017b27e0f38290448b991efffd2ebaeb23f1426afccf28cc1c9303e5f0d"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.toml"
+hash = "c2dffe8da35f12e88f9a7094f631823ed2ae1fc0c7c4d9d7f32bf6e5bc8187b5"
 metafile = true
 
 [[files]]
