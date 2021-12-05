@@ -18,7 +18,7 @@ hash = "8ea79f86612f7167b3dfb547adddb6a838c4f44d6fc1459273d9db7bdf37ebd8"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "8001ad8bc9162509c5f3c358463a81594d996fce4ab32a12ccc3c5e53cfde61c"
+hash = "ed779870c01580b4569e8079c53eb255cf9bdfbb53b54070f68ae52a140f6c3c"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -113,6 +113,16 @@ metafile = true
 [[files]]
 file = "mods/capes.toml"
 hash = "eef7bb485e3256f64c611371f1ae5df7606929cc22b7a9d510c8c3adb542bd2d"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.toml"
+hash = "1210d8143be82fe200e1f65adeba04dbeb9f75faed615b260fd47130c136ae7f"
+metafile = true
+
+[[files]]
+file = "mods/carpet.toml"
+hash = "dbbcfc2308ec8ec1f3c2b1fcf2495f7414bcae168ca833847e1b8a12f1f436d7"
 metafile = true
 
 [[files]]
