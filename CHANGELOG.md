@@ -3,7 +3,41 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18
 
-### Soon™️
+Notes:
+* MultiMC: Minecraft 1.18 requires [Java 17 or higher](https://www.oracle.com/java/technologies/downloads/). 
+* GDLauncher: make sure you are using the latest version, click the green arrow in titlebar when available
+
+### 3.0.0-alpha.2
+
+Still an alpha, make backups and expect crashes.
+
+* Added first-launch crash workaround back
+* Re-added Colormatic, FerriteCore, Lithium, Smooth Boot
+* Updated Cloth Config API, Continuity, Fabric API, MoreChatHistory, No Telemetry, Not Enough Crashes
+* Currently forced (do NOT report any issues to those mods!): Animatica, Don't Clear Chat History, No Fade
+* Currently removed Enhanced Block Entities (temp. replacement FastChest), Hydrogen, Phosphor
+
+### 3.0.0-alpha.1
+
+The first 1.18 alpha is here!
+
+Added:
+* No Telemetry - prevents sending diagnostics data to Mojang; protects your privacy and modded instance data helps Mojang less anyway
+
+Removed:
+* No Potion Offset - no longer needed in 1.18
+* LittleTweaks - no longer needed in 1.18
+
+Changes:
+* Iris' Max Shadow Distance reduced to 6 chunks
+* Simulation Distance reduced to 6 chunks
+* Alternative mods are now marked with a red asterisk on Mod Menu
+
+Current mod changes:
+* Updated: AdvancementInfo, AntiGhost, Architectury API, CIT Resewn, Cloth Config API, CompleteConfig, Entity Culling, Fabric API, Fabric Capes, Fabrishot, Indium, Iris Shaders, Mod Menu, Not Enough Crashes, Reese's Sodium Options, Sodium, Sodium Extra, ToolTipFix, WI Zoom
+* Forcefully enabled (do NOT report any issues to those mods!): Animatica, Continuity, Don't Clear Chat History, MoreChatHistory, No Fade
+* Temporarily removed: Colormatic, Enhanced Block Entities (temp. replacement FastChest), FerriteCore, Lithium, Hydrogen, Phosphor, Smooth Boot
+* Unlisted mods either didn't require 1.18 in the first place or were cross-compatible.
 
 ## 1.17.1
 
@@ -221,7 +255,7 @@ First alpha for 1.17.1!
 Notes for all 1.17 releases:
 
 * Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
-* MultiMC: Minecraft 1.17 requires [Java 16 or higher](https://adoptium.net/). 
+* MultiMC: Minecraft 1.17 requires [Java 16 or higher](https://www.oracle.com/java/technologies/downloads/). 
 
 ### 2.0.0b4 (2021-07-01)
 

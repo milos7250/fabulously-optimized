@@ -1,10 +1,12 @@
-version:2730
+version:2860
 autoJump:false
 snooperEnabled:false
 darkMojangStudiosBackground:true
 gamma:0.5
+simulationDistance:6
 guiScale:3
 resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","cullleaves/smartleaves","file/Mod Menu Helper.zip"]
+incompatibleResourcePacks:["lambdabettergrass/default","continuity/glass_pane_culling_fix","continuity/default"]
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
