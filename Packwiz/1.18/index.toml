@@ -18,7 +18,7 @@ hash = "47c8b2c436fb3feea44c29dd91cc8b8dba9d9f52978ce0b067e6d3c38a213e64"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "2327e253825ca1591478e9271e374602b16e7a9f2ad21e4bd386cd03bfb198e6"
+hash = "8ec211a7eeee92d6c8c9ba7b2dcfbf81c2ecc27275ec445b0524fad8e320aaf5"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "85fcebe729646abf8af1451dfe7feab6b062860cf9dc2e82f6f4536dea4487f6"
+hash = "588462201d75ce217b2d73c08932fc2b04d31632399f49d31a9b46a1a7e53b71"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/completeconfig.toml"
-hash = "126711d50f796ccc8292cb1bfe3b3b9d7ede964fafdd73194e8a6239e4ee0e5e"
+hash = "ee0e74082d6efae74eb702da33b2b798557ee91014f2c08b68afc6552d64820b"
 metafile = true
 
 [[files]]
@@ -209,6 +209,11 @@ hash = "e8a4d3bfde592a82183db4faa6d8b38a96c00d87473c425cbd2d5099350a3ccb"
 metafile = true
 
 [[files]]
+file = "mods/farsight.toml"
+hash = "cbd0287987aa00153aadf775d8741c05df51f7712bb4237657b8d6f0fc5b9a79"
+metafile = true
+
+[[files]]
 file = "mods/fastchest.toml"
 hash = "7c5232431f0ecb22111a697d8bf0f27810db1837f484f19d7f38858b5250844d"
 metafile = true
@@ -221,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/fps-reducer.toml"
 hash = "b640cbe358ce5a1da08f774b2632248f6244f88c47d0617be1523d525d99fab4"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.toml"
+hash = "5f71c165fb37b8ae2f1109d167d669916fd93147f3252f11ea6d46c19e2d241b"
 metafile = true
 
 [[files]]
@@ -265,12 +275,17 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.toml"
-hash = "1ca0251bfb7b7571ee13a76ec9193476e9bca76b00f885ba910d506750fd9f0a"
+hash = "4b0cc350b8ec7ebcb66c722b972d9f6ce30c66bd199e7fd7c7e20a03d8b7cdcd"
 metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
 hash = "511fe49c8aa17b69c981e1cc3f14d16bab0e7aa9248dcc1dc8cee01c9939d7ab"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.toml"
+hash = "44a3dd16d83d78860a7e3bda2c4d7f6ce3e3dfe3b8739d2e8ac2488a7c817dcf"
 metafile = true
 
 [[files]]
@@ -340,12 +355,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "3d628fbce2778065a737a83f073850f4b294685028328381c08018893f65309d"
+hash = "0454fb006fb6bb5930f8cbb7a7ae6f1c1aca7527191e86d257dc11925e94a3ea"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "3832ae1704b80c234b92cf333b903bec9d9a9834941dd686dd5da66f07a683ae"
+hash = "f07ffcf4f853d7ceb6f1187b8b3262b0cd53a0c5704c3b8a3953f18ed3a8ecf1"
 metafile = true
 
 [[files]]
