@@ -18,7 +18,7 @@ hash = "47c8b2c436fb3feea44c29dd91cc8b8dba9d9f52978ce0b067e6d3c38a213e64"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "8ec211a7eeee92d6c8c9ba7b2dcfbf81c2ecc27275ec445b0524fad8e320aaf5"
+hash = "3dc5d46c3d5fc51028e331c207316afa438ce8ef61e8dd30cc629fc596ab2a03"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.toml"
-hash = "93dc278b289483148e3474c88243f8fa640a1be7934bd70bb4dbcb9619a1711f"
+hash = "628ee5a0eb26c46926c80bf43dacd2300a2bc722169c4d7aa2bb4892c77ad913"
 metafile = true
 
 [[files]]
@@ -169,6 +169,11 @@ hash = "c39a0cc43a6722cfff7bc8c90233da3757551becf1b4dacc4e425ae0cefaf2d4"
 metafile = true
 
 [[files]]
+file = "mods/couplings.toml"
+hash = "06ab0f703732dbc14a73e18e367fe50af4e51978ac08f6557ba0eaf651ac0add"
+metafile = true
+
+[[files]]
 file = "mods/custom-entity-models-cem.toml"
 hash = "5a609203ae9f32d5ff7998edd49c50b2ca8d7fe28233664b5621befe87176ee2"
 metafile = true
@@ -181,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.toml"
 hash = "a3c3d4f35494103eb96d62ad1e63932d4407c90b7878fdb1d2d1f75e26da1ce4"
+metafile = true
+
+[[files]]
+file = "mods/edit-sign.toml"
+hash = "4a98cf1db8dfb347f0ccf461d36a88c63e57ae04ead30a462eb9ade203f9e8b5"
 metafile = true
 
 [[files]]
@@ -231,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/gamma-utils.toml"
 hash = "5f71c165fb37b8ae2f1109d167d669916fd93147f3252f11ea6d46c19e2d241b"
+metafile = true
+
+[[files]]
+file = "mods/image2map.toml"
+hash = "c741431e745ac8bc4dc81bc658d7d4892728cef81d782b6234c1411295f81f54"
 metafile = true
 
 [[files]]
@@ -321,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "d4581cbd048ec6d30f4ac9349abe3eb36e7f3a400cf8282779a1177c0a0292b9"
+metafile = true
+
+[[files]]
+file = "mods/simplerharvest.toml"
+hash = "38348e33aed13dcc6b31c86c0602430e9bbc67e2ffafb1c98b136b9f1f4e92d5"
 metafile = true
 
 [[files]]

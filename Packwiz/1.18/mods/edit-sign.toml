@@ -1,0 +1,13 @@
+name = "EditSign (Forge&Fabric)"
+filename = "EditSign-1.18-2.2.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3544/113/EditSign-1.18-2.2.6.jar"
+hash-format = "murmur2"
+hash = "3375095355"
+
+[update]
+[update.curseforge]
+file-id = 3544113
+project-id = 344996
