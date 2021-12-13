@@ -15,9 +15,9 @@ Supports CurseForge Launcher, MultiMC, GDLauncher and vanilla launcher. [Install
 
 _These downloads do not yet support the modpack or the mods :(_
 
-* [Auto-updating](https://github.com/Madis0/fabulously-optimized/wiki/Auto-updating-MultiMC-pack) MultiMC pack: [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v1.10.0/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v2.4.0/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/3.0.0-alpha.1/Fabulously.Optimized.MC.1.18.auto-update.zip)
-*  ̶V̶a̶n̶i̶l̶l̶a̶ ̶i̶n̶s̶t̶a̶l̶l̶e̶r̶ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
-*  ̶M̶o̶d̶r̶i̶n̶t̶h̶ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/63)
+* [Auto-updating](https://github.com/Madis0/fabulously-optimized/wiki/Auto-updating-MultiMC-pack) MultiMC pack: [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v1.11.0/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v2.6.0/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.0.0-alpha.3/Fabulously.Optimized.MC.1.18.auto-update.zip) | [1.18.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.1.0-alpha.1/Fabulously.Optimized.MC.1.18.1.auto-update.zip)
+* ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
+* ~~Modrinth~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/63)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 
 </details>
@@ -39,7 +39,7 @@ Not sure which edition is right for you? Check this handy table!
 
 [![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
-🌐 [Русский](https://www.youtube.com/watch?v=3Oylcgt1nyw) | [हिन्दी](https://www.youtube.com/watch?v=K90gsbmhf3w) | [Bahasa Indonesia](https://www.youtube.com/watch?v=47s_sEqNikc) | [eesti keel](https://www.youtube.com/watch?v=z0jKe8XgdP0)
+🌐 [eesti keel](https://www.youtube.com/watch?v=z0jKe8XgdP0) | [हिन्दी](https://www.youtube.com/watch?v=K90gsbmhf3w) | [Bahasa Indonesia](https://www.youtube.com/watch?v=47s_sEqNikc) | [Русский](https://www.youtube.com/watch?v=3Oylcgt1nyw) | [Türkçe](https://www.youtube.com/watch?v=Vj7S5_4Rkfg)
 
 More notable videos:
 * [Detailed installation tutorial](https://www.youtube.com/watch?v=9HXXyfzUy6Q) by CraftStones
@@ -51,9 +51,9 @@ More notable videos:
 
 ## Included mods
 
-The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754). The modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
+The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
 
-List of mods as of 2.4.0 are below.
+List of mods as of 2.6.0 are below.
 
 ### Smooth
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) by CaffeineMC - optimizes general rendering to improve FPS, adds some graphics options
@@ -92,6 +92,8 @@ List of mods as of 2.4.0 are below.
 
 ### Functional
 * [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) by alexander9892 - adds a scrollable zoom feature
+* [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) by comp500 - allows you to have Minecraft in full screen and interact with a different window (disabled by default)
+* [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) by altrisi - fixes the game freezing when you open resource pack folders, a screenshot etc.
 * [LittleTweaks](https://www.curseforge.com/minecraft/mc-mods/littletweaks) by ImUrX - adds audio output menu (1.18 parity!)
 * [More Chat History](https://www.curseforge.com/minecraft/mc-mods/more-chat-history) by JackFred2 - increases chat history limit
 * [Don't Clear Chat History](https://www.curseforge.com/minecraft/mc-mods/dont-clear-chat-history) by anar4732 - keeps typed message history across worlds

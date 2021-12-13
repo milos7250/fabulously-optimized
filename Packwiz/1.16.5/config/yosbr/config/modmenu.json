@@ -17,8 +17,14 @@
   "hide_config_buttons": false,
   "hidden_mods": [
     "minecraft",
+    "mm",
+    "autoconfig1u",
+    "cloth-basic-math",
+    "pride",
     "indium",
-    "fabric-language-kotlin"
+    "fabric-language-kotlin",
+    "crowdin-translate",
+    "architectury"
   ],
   "log_deprecation_warnings": false
 }

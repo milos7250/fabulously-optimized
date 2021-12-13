@@ -6,7 +6,7 @@ hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "42089ceb91f8f339588aad021926d739b17270a82bda3e7d433cfeff283088ac"
+hash = "b6ef10033898be05070fb89f74428df3260d9abb8b70880e0636baa03c732440"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -14,7 +14,7 @@ hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "47c8b2c436fb3feea44c29dd91cc8b8dba9d9f52978ce0b067e6d3c38a213e64"
+hash = "823e13cceab67ae7856cbfc91fcec40cadb1a7b958993b92f2501928659a0641"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
@@ -23,6 +23,10 @@ hash = "3dc5d46c3d5fc51028e331c207316afa438ce8ef61e8dd30cc629fc596ab2a03"
 [[files]]
 file = "config/sodium-mixins.properties"
 hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "67e294546dd7b0c9e0490574590273283da61a4363c68c9a4dcc86e4ba4b4195"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -66,7 +70,7 @@ hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "47c8b2c436fb3feea44c29dd91cc8b8dba9d9f52978ce0b067e6d3c38a213e64"
+hash = "823e13cceab67ae7856cbfc91fcec40cadb1a7b958993b92f2501928659a0641"
 
 [[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
@@ -86,7 +90,7 @@ hash = "d7db2ecda246d459f1d65c2c60d3581b8d5c02242a957d0c66b2e17a51d86af0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "55d443eb3f2392901c4610bef974b8fc68774657b51bd73279d8112696ccd81c"
+hash = "7bb4759c7e86a5894c723a3205e3bae4ab280604ca801538f1f1b3120cf1decf"
 
 [[files]]
 file = "mods/advancementinfo.toml"
@@ -121,6 +125,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.toml"
 hash = "62d0e9e74c95be4afcead97e60e3558d5606be9c7aad2da5934213a5c2bed9de"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.toml"
+hash = "f34f337f0aea9abcb7cbc5b241c6f8231a3b1ee93cfc0d06a05f11829fe2f316"
 metafile = true
 
 [[files]]
@@ -194,6 +203,11 @@ hash = "4a98cf1db8dfb347f0ccf461d36a88c63e57ae04ead30a462eb9ade203f9e8b5"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-block-entities.toml"
+hash = "08280b7b95f068d0311df8ce7a79d9f33a123369448ad4bccc6f0b98ff799807"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.toml"
 hash = "114395acdb903faf33561e5e653d1b4a0deed26af32781cdbb7eef2965aff1fe"
 metafile = true
@@ -224,8 +238,8 @@ hash = "cbd0287987aa00153aadf775d8741c05df51f7712bb4237657b8d6f0fc5b9a79"
 metafile = true
 
 [[files]]
-file = "mods/fastchest.toml"
-hash = "7c5232431f0ecb22111a697d8bf0f27810db1837f484f19d7f38858b5250844d"
+file = "mods/fastopenlinksandfolders.toml"
+hash = "43fdcfbe3d14e724bf3c5a37bda4648677b511a296797ae377573308297c5a62"
 metafile = true
 
 [[files]]
@@ -260,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "865f2adc57260df8f53e9f3444bf918b7af79b093008533256c61a6fb05c75d4"
+hash = "16cfbd80478e47ad53d383025c5fa8cb3360f8d186a0dfb44eb2ae6c973f9b2b"
 metafile = true
 
 [[files]]
@@ -398,4 +412,4 @@ hash = "0396747bfca08f580cfb8d5d2998730287cdfc1c91544a212e16ebc1442ed186"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "58adc5eab287cefd6e7119127ca4fb2c951b2536cb46243fd913b1344844d395"
+hash = "cee0a6bd5fd17342dd04ef7736b826c0b022bf4f143714078a8e7dbf79d9a4ed"
