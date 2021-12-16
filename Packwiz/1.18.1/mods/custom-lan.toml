@@ -1,0 +1,13 @@
+name = "Custom LAN"
+filename = "custom-lan-1.18-v2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3557/436/custom-lan-1.18-v2.0.1.jar"
+hash-format = "sha256"
+hash = "95719190bfdf7840c48e286170b9cf963bd05a30339bbd6a5ce35df8d095eaf4"
+
+[update]
+[update.curseforge]
+file-id = 3557436
+project-id = 507774

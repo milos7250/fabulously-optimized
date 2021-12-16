@@ -6,7 +6,7 @@ hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b6ef10033898be05070fb89f74428df3260d9abb8b70880e0636baa03c732440"
+hash = "21635893ecc8ce5d7edc1f545096f48ddb6d15542f83465c1db97cf9b3e71edb"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -18,7 +18,7 @@ hash = "823e13cceab67ae7856cbfc91fcec40cadb1a7b958993b92f2501928659a0641"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "82b680df23d06ec4fc1ffbf3cc26138ccaa304d3ad70e31cadbb2b355601a49e"
+hash = "5a54035102de24c1d5fad1d3da7b4122e8a3967463e0efc9bef71ab66d0d4540"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -188,6 +188,11 @@ hash = "d7b04dc33616ec7168a1b4c1c4a7617cb2526c830dc4457ee7972f5145419b0a"
 metafile = true
 
 [[files]]
+file = "mods/custom-lan.toml"
+hash = "80c646a451db2e32cd0273f939fa81ba0af72c7a483079576bc2cbdab9fc13ab"
+metafile = true
+
+[[files]]
 file = "mods/dont-clear-chat-history.toml"
 hash = "2a1799426d31ac5da9f01cbbd1b611df5b74499ae46d7d1a5e2e4f805db1570c"
 metafile = true
@@ -310,6 +315,11 @@ metafile = true
 [[files]]
 file = "mods/light-overlay.toml"
 hash = "4b0cc350b8ec7ebcb66c722b972d9f6ce30c66bd199e7fd7c7e20a03d8b7cdcd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "3a8fb7d4258da78b56e3e34f67df5b13f4773496bad7a5806fb603342294753c"
 metafile = true
 
 [[files]]

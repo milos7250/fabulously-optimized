@@ -6,7 +6,7 @@ hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b6ef10033898be05070fb89f74428df3260d9abb8b70880e0636baa03c732440"
+hash = "21635893ecc8ce5d7edc1f545096f48ddb6d15542f83465c1db97cf9b3e71edb"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -18,7 +18,7 @@ hash = "823e13cceab67ae7856cbfc91fcec40cadb1a7b958993b92f2501928659a0641"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "3dc5d46c3d5fc51028e331c207316afa438ce8ef61e8dd30cc629fc596ab2a03"
+hash = "c86527682767ae4a461af29a00b13d65db73fcb4b1f005fb3cec290e2e40acbe"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "588462201d75ce217b2d73c08932fc2b04d31632399f49d31a9b46a1a7e53b71"
+hash = "6acb793cd97dff83925decbfab9c9e418563c1fe2c84f1972047e7110a39f16f"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "3673dd85d0ebecbef0501f2506206279fedc113070ee32a98fbe0690ba4e2aab"
+hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
 metafile = true
 
 [[files]]
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-entity-models-cem.toml"
-hash = "5a609203ae9f32d5ff7998edd49c50b2ca8d7fe28233664b5621befe87176ee2"
+hash = "d7b04dc33616ec7168a1b4c1c4a7617cb2526c830dc4457ee7972f5145419b0a"
 metafile = true
 
 [[files]]
@@ -389,12 +389,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "0454fb006fb6bb5930f8cbb7a7ae6f1c1aca7527191e86d257dc11925e94a3ea"
+hash = "ce02b1751c26f55ef1bc34ff83e2674b80806e76b03cd27f87c5ccb2bd42c68c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "f07ffcf4f853d7ceb6f1187b8b3262b0cd53a0c5704c3b8a3953f18ed3a8ecf1"
+hash = "bca6f2ec5f085d00a9d5daed2a378817eb0e621a65ab8e71e78d37f1ae94f264"
 metafile = true
 
 [[files]]

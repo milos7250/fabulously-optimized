@@ -3,6 +3,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.1
 
+### 3.1.0-alpha.3 (2021-12-15)
+
+* Another patch for the multiplayer bug (updated Fabric Loader to 0.12.12)
+
+### 3.1.0-alpha.2 (2021-12-14)
+
+* Re-added Lithium
+* Updated Architectury API, Cloth Config API, Custom Entity Models
+* Currently forced (do NOT report any issues to those mods!): Animatica, Don't Clear Chat History
+* Currently removed Hydrogen, Phosphor
+
 ### 3.1.0-alpha.1 (2021-12-11)
 
 * 1.18.1 has fixed [the critical multiplayer bug](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition)
@@ -15,6 +26,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 Notes:
 * MultiMC: Minecraft 1.18 requires [Java 17 or higher](https://www.oracle.com/java/technologies/downloads/). 
 * GDLauncher: make sure you are using the latest version, click the green arrow in titlebar when available
+
+### 3.0.0-alpha.4 (2021-12-15)
+
+* Another patch for the multiplayer bug (updated Fabric Loader to 0.12.12)
+* Updated Architectury API, Cloth Config API, Custom Entity Models
 
 ### 3.0.0-alpha.3 (2021-12-11)
 
@@ -68,6 +84,11 @@ Current mod changes:
 * Unlisted mods either didn't require 1.18 in the first place or were cross-compatible.
 
 ## 1.17.1
+
+### 2.6.1 (2021-12-15)
+
+* Another patch for the multiplayer bug (updated Fabric Loader to 0.12.12)
+* Updated Architectury API, Cloth Config API
 
 ### 2.6.0 (2021-12-11)
 
@@ -340,6 +361,11 @@ Other
 * CF version is now 100% Fabric, meaning faster startup and better mod management!
 
 ## 1.16.5
+
+### 1.11.1 (2021-12-15)
+
+* Another patch for the multiplayer bug (updated Fabric Loader to 0.12.12)
+* Updated Architectury API, Cloth Config API
 
 ### 1.11.0 (2021-12-11)
 
