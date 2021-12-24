@@ -11,3 +11,8 @@ hash = "719155932"
 [update.curseforge]
 file-id = 3551264
 project-id = 401648
+
+[option]
+default = false
+description = "Colorised F3 view\nNot compatible with MiniHUD"
+optional = true

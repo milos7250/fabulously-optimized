@@ -1,0 +1,18 @@
+name = "MiniHUD"
+filename = "minihud-fabric-1.18.0-0.19.0-dev.20211204.230657"
+side = "both"
+
+[download]
+url = "https://masa.dy.fi/tmp/minecraft/mods/misc_test_versions/minihud-fabric-1.18.0-0.19.0-dev.20211204.230657.jar"
+hash-format = "sha256"
+hash = "5ee31f8efa2ee46d46f08a57e9acee65f2bb5b7a891192be6c22d8ccf95ec951"
+
+[update]
+[update.curseforge]
+file-id = 3542647
+project-id = 244260
+
+[option]
+default = true
+description = "A client-side mod that allows displaying various 'info lines' on the screen ('mini-F3').\nNot compatible with BetterF3"
+optional = true

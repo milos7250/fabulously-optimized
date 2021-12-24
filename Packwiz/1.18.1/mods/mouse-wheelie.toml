@@ -11,3 +11,8 @@ hash = "1381384174"
 [update.curseforge]
 file-id = 3538698
 project-id = 317514
+
+[option]
+default = false
+description = "A small clientside mod to enable various mouse wheel related actions. Features item scrolling, inventory sorting, item refilling and much more!\nNot compatible with Item Scroller"
+optional = true

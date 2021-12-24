@@ -11,3 +11,8 @@ hash = "4262676809"
 [update.curseforge]
 file-id = 3545928
 project-id = 357540
+
+[option]
+default = false
+description = "Display armor and tool info besides the hotbar, or the entire inventory above the hotbar"
+optional = true

@@ -11,3 +11,8 @@ hash = "3279013320"
 [update.curseforge]
 file-id = 3541986
 project-id = 492295
+
+[option]
+default = false
+description = "Adjust Gamma outwith the vanilla-allowed levels dynamically by pressing G"
+optional = true
