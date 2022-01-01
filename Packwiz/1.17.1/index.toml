@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.toml"
-hash = "5f86bb4e54b5d5a10be7ed909c0b106f6bb246578c9b76aa0284f1a99e9d67b1"
+hash = "97465f9cd297279d178451f7667b1118e127822c7c92587aa2cb7908841b58b2"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "86e3e4b3527ecc9688171714cfae6a4628544ad102e43b9b088c1f4baac4dea9"
+hash = "0a08fd6ef2b5d07a11e308406bed1c215fdd4d3d5dbec5bb0f031c62a3dbfe94"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "cbce67550c67978ca8fbc4bbbb5ec5ce849155e34f6bdd1c407f882801a7609c"
+hash = "f41dd6fcbc1a27a1cf460b11dd241b5016caa34697a095bfcc367618aa17f774"
 metafile = true
 
 [[files]]
@@ -191,12 +191,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "1aabee907a0be9641a40559bc9d16bfeac49c7987f1cfc2a89fb56e55be8aad5"
+hash = "7f45180c33c8663ae90544ab31ad3326ae78810e28121e8b2345faf48db99fa4"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "2e585b6ce11bc8f187a3178debba7086dfebdd37c667aee1dd46d627ab94e083"
+hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
 metafile = true
 
 [[files]]
@@ -241,12 +241,12 @@ metafile = true
 
 [[files]]
 file = "mods/item-model-fix.toml"
-hash = "8cb021b388cdac45c85fd6559ebe7f98f8db1ee93fcd5641816414808107296e"
+hash = "680733c8f73fd5f5e1998124bdca39063713af261e9b7c2248478d0594954f4a"
 metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "9b6ae1f491e5db99c57f0fca6da4db2bd999bf8bda287cf60cf861dd3d18fa49"
+hash = "220ab04d4b6e98672a143f8761e6044ecdd6190036e1248638e940d46fcb7c97"
 metafile = true
 
 [[files]]
@@ -351,12 +351,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "10c007fd2f406e7d6bf2da1ed7c562721e4db0aac9506cf34fd6e4b54666d2ed"
+hash = "4dd595df9c5f27658aa74e35e1848247236261692dd579a48696fed4d44e26d5"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "a260ba1d8a2a2d852027d505090ed6d3d21a97282a69172d0146d271dcce2403"
+hash = "c526b9318bcf0a04a2964a3b97e906777732c5c5eb4a115d0d8a31da14d1fde7"
 metafile = true
 
 [[files]]

@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "7486ce6b9916d0486e25e34736f5f0b75b78ffe2a1944edff1c5b0b52e79d528"
+hash = "3ddd65c4a487a3d90c0faefd124e4849494529aa8eb1687a1abc6210272d2a16"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-entity-models-cem.toml"
-hash = "7b4e235f65320b77d9ac110643d085ca81bc214e2ca71ddf748b05481ebb46e7"
+hash = "65031e6516cecdf9a6efc377860dd222c441542bbf8c4984f2356a028a67a972"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-model-fix.toml"
-hash = "fd60dacd484d8246a33ba8425b75fdc1522207d5e36f23df557c2987d38df5c2"
+hash = "83d93795729ac2904fcc0d120e43cdf11bea6817c4bcd45a3646f1e902d8a96f"
 metafile = true
 
 [[files]]
