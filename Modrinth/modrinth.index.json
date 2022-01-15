@@ -1,50 +1,69 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.1.0-alpha.5",
+    "versionId": "3.1.0-beta.1",
     "name": "Fabulously Optimized",
-    "summary": "A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations",
     "files": [
         {
             "path": "mods/advancementinfo-1.18-fabric0.43.1-1.3.jar",
             "hashes": {
-                "murmur2": "4109430737"
+                "sha1": "2ff0ac3fc5f6a2e274741cfa4f55eea8044161bd"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3543/420/advancementinfo-1.18-fabric0.43.1-1.3.jar"
             ]
         },
         {
-            "path": "mods/animatica-0.2+1.18.jar",
+            "path": "mods/animatica-0.3+1.18.jar",
             "hashes": {
-                "murmur2": "1842450262"
+                "sha1": "6b384abe9836f17b6287c2bd22fb85189f9101eb"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3577/480/animatica-0.2+1.18.jar"
+                "https://edge.forgecdn.net/files/3594/396/animatica-0.3+1.18.jar"
             ]
         },
         {
             "path": "mods/antighost-1.18-fabric0.43.1-1.1.4.jar",
             "hashes": {
-                "murmur2": "3690634280"
+                "sha1": "619e250c133106bacc3e3b560839bd4b324dfda8"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3543/423/antighost-1.18-fabric0.43.1-1.1.4.jar"
             ]
         },
         {
-            "path": "mods/architectury-3.2.60.jar",
+            "path": "mods/architectury-3.4.9.jar",
             "hashes": {
-                "murmur2": "60696494"
+                "sha1": "81da7576040fecc1bbe3927ab199a6565e34b386"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3577/741/architectury-3.2.60.jar"
+                "https://edge.forgecdn.net/files/3587/337/architectury-3.4.9.jar"
             ]
         },
         {
             "path": "mods/bettermounthud-1.1.3.jar",
             "hashes": {
-                "murmur2": "1229323412"
+                "sha1": "9fcf66bda29872bbd7ccc3ee7acd5c8d17322cad"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3556/489/bettermounthud-1.1.3.jar"
@@ -53,7 +72,11 @@
         {
             "path": "mods/borderless-mining-1.1.1+1.18.jar",
             "hashes": {
-                "murmur2": "749412091"
+                "sha1": "0fe49bcdb499f7cd68bf5666e5893bfa7edd04ee"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3549/245/borderless-mining-1.1.1+1.18.jar"
@@ -62,52 +85,63 @@
         {
             "path": "mods/Capes-1.2.2+1.18.jar",
             "hashes": {
-                "murmur2": "2842358990"
+                "sha1": "34a9986cc8ee21a50b8ff3d47d4e73c1328f996c"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3543/238/Capes-1.2.2+1.18.jar"
             ]
         },
         {
-            "path": "mods/CITResewn-0.8.1-1.18.jar",
+            "path": "mods/CITResewn-0.9.0+1.18.1.jar",
             "hashes": {
-                "murmur2": "235451270"
+                "sha1": "60e44a133f87f46744e1f159f81f51fc512416e2"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3543/705/CITResewn-0.8.1-1.18.jar"
+                "https://edge.forgecdn.net/files/3606/965/CITResewn-0.9.0+1.18.1.jar"
             ]
         },
         {
-            "path": "mods/cloth-api-2.0.54.jar",
+            "path": "mods/cloth-api-3.0.55.jar",
             "hashes": {
-                "murmur2": "2308550397"
+                "sha1": "8225987585850dbd39aad59a577647099f8892fa"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3336/395/cloth-api-2.0.54.jar"
+                "https://edge.forgecdn.net/files/3601/126/cloth-api-3.0.55.jar"
             ]
         },
         {
             "path": "mods/cloth-config-6.1.48-fabric.jar",
             "hashes": {
-                "murmur2": "2178376205"
+                "sha1": "c60956513db9fbb068bcc2bc439479b0e786f341"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3559/638/cloth-config-6.1.48-fabric.jar"
             ]
         },
         {
-            "path": "mods/colormatic-2.4.0+mc.1.18.jar",
-            "hashes": {
-                "murmur2": "2915827074"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3549/774/colormatic-2.4.0+mc.1.18.jar"
-            ]
-        },
-        {
             "path": "mods/completeconfig-lib-1.3.3.jar",
             "hashes": {
-                "murmur2": "4163740095"
+                "sha1": "bdf33e87d89872fd0c2b6992cd467c6777e75e42"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3555/13/completeconfig-lib-1.3.3.jar"
@@ -116,7 +150,11 @@
         {
             "path": "mods/continuity-1.0.3+1.18.jar",
             "hashes": {
-                "murmur2": "2946885067"
+                "sha1": "1d09ae500d2f24112c4c5bc6f00f05bbcc1a0f72"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3549/420/continuity-1.0.3+1.18.jar"
@@ -125,7 +163,11 @@
         {
             "path": "mods/cullleaves-2.3.2.jar",
             "hashes": {
-                "murmur2": "2412182132"
+                "sha1": "9bc9c61f0a7dc6c765118a0527850b91847608cb"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3509/388/cullleaves-2.3.2.jar"
@@ -134,7 +176,11 @@
         {
             "path": "mods/cem-0.7.0.jar",
             "hashes": {
-                "murmur2": "3362249222"
+                "sha1": "91c1a2ad7743118cc44d56a92f358ae09f4f8ba1"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3561/474/cem-0.7.0.jar"
@@ -143,25 +189,37 @@
         {
             "path": "mods/DCCH-1.17.x.jar",
             "hashes": {
-                "murmur2": "2109808836"
+                "sha1": "61d700268df2058411dc414ee3687b5766d7a2d3"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3456/37/DCCH-1.17.x.jar"
             ]
         },
         {
-            "path": "mods/dynamic-fps-2.0.6.jar",
+            "path": "mods/dynamic-fps-2.1.0.jar",
             "hashes": {
-                "murmur2": "1834508903"
+                "sha1": "d4ffc71b2f0ea01b9a6242c23faace5cdc72d947"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3497/287/dynamic-fps-2.0.6.jar"
+                "https://edge.forgecdn.net/files/3606/973/dynamic-fps-2.1.0.jar"
             ]
         },
         {
             "path": "mods/enhancedblockentities-0.5+1.18.jar",
             "hashes": {
-                "murmur2": "138218904"
+                "sha1": "c7111f560caf965c18a13edcfbe789a87cf904f4"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3557/31/enhancedblockentities-0.5+1.18.jar"
@@ -170,25 +228,37 @@
         {
             "path": "mods/EntityCulling-Fabric-1.3.3.jar",
             "hashes": {
-                "murmur2": "91561999"
+                "sha1": "17e958986004107f980fe17fbe902abffb662a1a"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3523/465/EntityCulling-Fabric-1.3.3.jar"
             ]
         },
         {
-            "path": "mods/fabric-api-0.45.0+1.18.jar",
+            "path": "mods/fabric-api-0.46.0+1.18.jar",
             "hashes": {
-                "murmur2": "3382045089"
+                "sha1": "2c13860bb9010c0d1e801bd6995c643bdba3a999"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3577/46/fabric-api-0.45.0+1.18.jar"
+                "https://edge.forgecdn.net/files/3605/891/fabric-api-0.46.0+1.18.jar"
             ]
         },
         {
             "path": "mods/fabric-language-kotlin-1.7.1+kotlin.1.6.10.jar",
             "hashes": {
-                "murmur2": "2171328116"
+                "sha1": "a91c87f016431f684436182b7e993fdfe941b173"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3573/712/fabric-language-kotlin-1.7.1+kotlin.1.6.10.jar"
@@ -197,70 +267,102 @@
         {
             "path": "mods/fabrishot-1.6.0.jar",
             "hashes": {
-                "murmur2": "1467117810"
+                "sha1": "d715dea2c87107167a507bcab05373a099d2dd60"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3542/922/fabrishot-1.6.0.jar"
             ]
         },
         {
-            "path": "mods/fastopenlinksandfolders-1.0.0.jar",
+            "path": "mods/fastopenlinksandfolders-1.0.1.jar",
             "hashes": {
-                "murmur2": "287316950"
+                "sha1": "4e4128d2d6c720e448e50cd6feec53d60ae29fb5"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3540/39/fastopenlinksandfolders-1.0.0.jar"
+                "https://edge.forgecdn.net/files/3590/993/fastopenlinksandfolders-1.0.1.jar"
             ]
         },
         {
             "path": "mods/ferritecore-4.0.0-fabric.jar",
             "hashes": {
-                "murmur2": "4229292133"
+                "sha1": "e29e1f3991ea94a161eebd9faf68f9d489d588f3"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3550/48/ferritecore-4.0.0-fabric.jar"
             ]
         },
         {
-            "path": "mods/indium-1.0.2-alpha1+mc1.18.jar",
+            "path": "mods/indium-1.0.2-alpha2+mc1.18.1.jar",
             "hashes": {
-                "murmur2": "3058950694"
+                "sha1": "111912f57b1edd769b19c24419390db0652fd0c6"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3542/434/indium-1.0.2-alpha1+mc1.18.jar"
+                "https://edge.forgecdn.net/files/3606/937/indium-1.0.2-alpha2+mc1.18.1.jar"
             ]
         },
         {
-            "path": "mods/iris-mc1.18.1-1.1.3.jar",
+            "path": "mods/iris-mc1.18.1-1.1.5.jar",
             "hashes": {
-                "murmur2": "3998045195"
+                "sha1": "f4a6c1abebe6ae597b8023db9921986fc658ac5e"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3558/900/iris-mc1.18.1-1.1.3.jar"
+                "https://edge.forgecdn.net/files/3605/379/iris-mc1.18.1-1.1.5.jar"
             ]
         },
         {
             "path": "mods/item-model-fix-1.0.3+1.18.jar",
             "hashes": {
-                "murmur2": "1104738622"
+                "sha1": "2aa679f2dc887e2ce45d55fffe67af36250b4841"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3573/935/item-model-fix-1.0.3+1.18.jar"
             ]
         },
         {
-            "path": "mods/lambdabettergrass-1.2.1+1.17.jar",
+            "path": "mods/lambdabettergrass-1.2.2+1.17.jar",
             "hashes": {
-                "murmur2": "3594399257"
+                "sha1": "7fef2f1d2c610b9d49721f3e297206c18f9dd0d0"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3436/762/lambdabettergrass-1.2.1+1.17.jar"
+                "https://edge.forgecdn.net/files/3584/355/lambdabettergrass-1.2.2+1.17.jar"
             ]
         },
         {
             "path": "mods/lambdynamiclights-2.1.0+1.17.jar",
             "hashes": {
-                "murmur2": "1361082460"
+                "sha1": "812fdc41518b786f05d72de4017c16c88a3e2ea6"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3541/670/lambdynamiclights-2.1.0+1.17.jar"
@@ -269,7 +371,11 @@
         {
             "path": "mods/language-reload-1.2.jar",
             "hashes": {
-                "murmur2": "2993088515"
+                "sha1": "1590b32c7f611b522098f0dee252ee15e21e74b5"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3510/259/language-reload-1.2.jar"
@@ -278,25 +384,50 @@
         {
             "path": "mods/lazydfu-0.1.2.jar",
             "hashes": {
-                "murmur2": "2594861637"
+                "sha1": "2efec5781f1271bdcdae462eee402ccb97bff6fe"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3209/972/lazydfu-0.1.2.jar"
             ]
         },
         {
-            "path": "mods/lithium-fabric-mc1.18.1-0.7.6.jar",
+            "path": "mods/lithium-fabric-mc1.18.1-0.7.7.jar",
             "hashes": {
-                "murmur2": "3985106497"
+                "sha1": "8eaffcb994e67ac7b3fd2efa526f7721f8327d11"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3565/566/lithium-fabric-mc1.18.1-0.7.6.jar"
+                "https://edge.forgecdn.net/files/3590/908/lithium-fabric-mc1.18.1-0.7.7.jar"
+            ]
+        },
+        {
+            "path": "mods/midnightlib-0.3.1.jar",
+            "hashes": {
+                "sha1": "e0c2f13829fc190775c19065c91c5f2049f76521"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3531/347/midnightlib-0.3.1.jar"
             ]
         },
         {
             "path": "mods/modmenu-3.0.1.jar",
             "hashes": {
-                "murmur2": "3673623205"
+                "sha1": "5b7328a666250330b3dd6a7a5190783d618a0307"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3570/652/modmenu-3.0.1.jar"
@@ -305,7 +436,11 @@
         {
             "path": "mods/morechathistory-1.18-1.1.0.jar",
             "hashes": {
-                "murmur2": "2459987684"
+                "sha1": "378a6a5b02f45feff9d55b28be55d36474fca77f"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3545/709/morechathistory-1.18-1.1.0.jar"
@@ -314,43 +449,63 @@
         {
             "path": "mods/nofade-1.18-2.0.1.jar",
             "hashes": {
-                "murmur2": "4017265390"
+                "sha1": "76951fe09b742ba0ca07acc7c54e4c3760157071"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3550/935/nofade-1.18-2.0.1.jar"
             ]
         },
         {
-            "path": "mods/no-telemetry-1.3.0.jar",
+            "path": "mods/notenoughcrashes-4.1.4+1.18.1-fabric.jar",
             "hashes": {
-                "murmur2": "2404469153"
+                "sha1": "a6b83e46b3a8b1884f539683042686680729ce2a"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3549/361/no-telemetry-1.3.0.jar"
+                "https://edge.forgecdn.net/files/3606/828/notenoughcrashes-4.1.4+1.18.1-fabric.jar"
             ]
         },
         {
-            "path": "mods/notenoughcrashes-4.1.3+1.18-fabric.jar",
+            "path": "mods/puzzle-1.1.0.jar",
             "hashes": {
-                "murmur2": "262039561"
+                "sha1": "56365b0e1e27288c45ec680be7d41cff8d389015"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3545/827/notenoughcrashes-4.1.3+1.18-fabric.jar"
+                "https://edge.forgecdn.net/files/3599/769/puzzle-1.1.0.jar"
             ]
         },
         {
-            "path": "mods/reeses_sodium_options-mc1.18-1.2.3.jar",
+            "path": "mods/reeses_sodium_options-mc1.18.1-1.3.0.jar",
             "hashes": {
-                "murmur2": "4286157886"
+                "sha1": "79d6546bbae78836c42e3a880597a700d6c403f8"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3542/998/reeses_sodium_options-mc1.18-1.2.3.jar"
+                "https://edge.forgecdn.net/files/3596/724/reeses_sodium_options-mc1.18.1-1.3.0.jar"
             ]
         },
         {
             "path": "mods/slight-gui-modifications-2.0.2.jar",
             "hashes": {
-                "murmur2": "2554437827"
+                "sha1": "1e0167bec3b952eaf8dd8b6578c15cf852f6c999"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3512/331/slight-gui-modifications-2.0.2.jar"
@@ -359,43 +514,76 @@
         {
             "path": "mods/smoothboot-fabric-1.18-1.7.0.jar",
             "hashes": {
-                "murmur2": "853025149"
+                "sha1": "b9747389234b3bc4fa04d7d5b4c05e606e2d1abe"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3549/723/smoothboot-fabric-1.18-1.7.0.jar"
             ]
         },
         {
-            "path": "mods/sodium-extra-mc1.18-0.3.7.jar",
+            "path": "mods/sodium-extra-mc1.18.1-0.3.8.jar",
             "hashes": {
-                "murmur2": "38126557"
+                "sha1": "0702cc8dc73eff1613ca37ece81d1124bc39cdf6"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3542/997/sodium-extra-mc1.18-0.3.7.jar"
+                "https://edge.forgecdn.net/files/3605/328/sodium-extra-mc1.18.1-0.3.8.jar"
             ]
         },
         {
-            "path": "mods/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar",
+            "path": "mods/sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar",
             "hashes": {
-                "murmur2": "2315531696"
+                "sha1": "795d4c12bffdb1b21eed5ff87c07ce5ca3c0dcbf"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3542/74/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar"
+                "https://edge.forgecdn.net/files/3605/309/sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar"
             ]
         },
         {
             "path": "mods/starlight-1.0.0+fabric.d0a3220.jar",
             "hashes": {
-                "murmur2": "1924420845"
+                "sha1": "743b14918588186cae2117d1a9684b400939e6f8"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3554/912/starlight-1.0.0+fabric.d0a3220.jar"
             ]
         },
         {
+            "path": "mods/TieFix-1.8.0.jar",
+            "hashes": {
+                "sha1": "e75b788584060cc8e6464be7847ab84a18ddf715"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3582/452/TieFix-1.8.0.jar"
+            ]
+        },
+        {
             "path": "mods/tooltipfix-1.0.4-1.18.jar",
             "hashes": {
-                "murmur2": "4269860137"
+                "sha1": "16b844c45ce0e4f1159ff51739479e8747a64d84"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3543/273/tooltipfix-1.0.4-1.18.jar"
@@ -404,7 +592,11 @@
         {
             "path": "mods/WI-Zoom-1.3-MC1.18.1.jar",
             "hashes": {
-                "murmur2": "2361468328"
+                "sha1": "a669e6e97ba7850b09d10e50ef6a09eff93f8d9e"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3557/414/WI-Zoom-1.3-MC1.18.1.jar"
@@ -413,7 +605,11 @@
         {
             "path": "mods/yosbr-0.1.1.jar",
             "hashes": {
-                "murmur2": "1019026871"
+                "sha1": "0643830cab952fc96872702e681b863b550c8530"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/2934/596/yosbr-0.1.1.jar"
@@ -421,7 +617,7 @@
         }
     ],
     "dependencies": {
-        "minecraft": "1.18.1",
-        "fabric-loader": "0.12.12"
+        "fabric-loader": "0.12.12",
+        "minecraft": "1.18.1"
     }
 }

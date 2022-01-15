@@ -1,13 +1,13 @@
 name = "Animatica"
-filename = "animatica-0.2+1.17.jar"
+filename = "animatica-0.3+1.17.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3577/477/animatica-0.2+1.17.jar"
+url = "https://edge.forgecdn.net/files/3594/351/animatica-0.3+1.17.jar"
 hash-format = "murmur2"
-hash = "169890552"
+hash = "3282265981"
 
 [update]
 [update.curseforge]
-file-id = 3577477
+file-id = 3594351
 project-id = 533006

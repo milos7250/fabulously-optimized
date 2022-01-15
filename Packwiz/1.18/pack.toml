@@ -1,6 +1,7 @@
 name = "Fabulously Optimized"
 version = "3.0.0-alpha.2c"
 pack-format = "packwiz:1.0.0"
+version = "3.0.0-alpha.4"
 
 [index]
 file = "index.toml"

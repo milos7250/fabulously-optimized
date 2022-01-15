@@ -6,6 +6,41 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 Notes:
 * See an error about "cloth-client-events-v0.mixins.json"? This is known, simply launch again until I find a fix. See [#192](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/192)
 
+### 3.1.0-beta.1 (2022-01-15)
+
+First beta for 1.18.1!
+
+New mods
+* Puzzle - adds some Optifine features like emissive mobs and resource pack-provided splash screen
+* TieFix - disables telemetry and fixes some bugs
+* Starlight - improves chunk performance, 75% preferred it so here it is! (1.0.0 stable version)
+
+Removed mods
+* Phosphor - replaced with Starlight as a result of the public vote
+* No Telemetry - replaced with TieFix which has the same feature but can be toggled as well
+
+Other
+* Sodium got a bugfix update - fixing lag spikes, fog, memory leak and more
+* Updated CIT Resewn, Cloth API, Dynamic FPS, Fabric API, Indium, Iris Shaders, Not Enough Crashes, Sodium, Sodium Extra
+* Colormatic temporarily removed as it breaks with the new Sodium
+* Don't Clear Chat History is still forced, Hydrogen is still removed - will not highlight in changelog anymore until something changes
+
+### 3.1.0-alpha.7 (2022-01-07)
+
+* Iris got a performance update, the game should run better regardless of whether you have shaders enabled.
+* Updated Animatica, Colormatic, Fabric API, Iris Shaders, Reese's Sodium Options
+* Currently forced (do NOT report any issues to those mods!): Don't Clear Chat History
+* Currently removed Hydrogen
+
+### 3.1.0-alpha.6 (2022-01-02)
+
+Happy new year, time to test Phosphor! [Vote here!](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21#issuecomment-1003749296)
+
+* Swapped Starlight with Phosphor for testing
+* Updated Architectury API, CIT Resewn, FastOpenLinksAndFolders, LambdaBetterGrass, Lithium, Not Enough Crashes, Reese's Sodium Options
+* Currently forced (do NOT report any issues to those mods!): Don't Clear Chat History
+* Currently removed Hydrogen
+
 ### 3.1.0-alpha.5 (2021-12-23)
 
 Thank you for 200K downloads! Starlight testing is ongoing, [don't forget to vote](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21#issuecomment-998162829).
@@ -109,6 +144,16 @@ Current mod changes:
 * Unlisted mods either didn't require 1.18 in the first place or were cross-compatible.
 
 ## 1.17.1
+
+### 2.6.3 (2022-01-14)
+
+* Sodium got an update with some bugfixes, including a memory leak fix.
+* Updated Fabric API, Iris Shaders, Sodium
+
+### 2.6.2 (2022-01-07)
+
+* Iris got a performance update, the game should run better regardless of whether you have shaders enabled.
+* Updated Animatica, Architectury API, CIT Resewn, Fabric API, Fabric Language Kotlin, FastOpenlinksAndFolders, Iris Shaders, Item Model Fix, LambdaBetterGrass, Reese's Sodium Options
 
 ### 2.6.1 (2021-12-15)
 
@@ -386,6 +431,12 @@ Other
 * CF version is now 100% Fabric, meaning faster startup and better mod management!
 
 ## 1.16.5
+
+### 1.11.2 (2022-01-07)
+
+* Iris got a performance update, the game should run better regardless of whether you have shaders enabled.
+* Updated FastOpenLinksAndFolders, Iris Shaders, Item Model Fix, Reese's Sodium Options
+* Skipped Architectury API update as something broke in its last few versions for 1.16.5
 
 ### 1.11.1 (2021-12-15)
 

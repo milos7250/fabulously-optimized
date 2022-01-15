@@ -18,7 +18,7 @@ hash = "823e13cceab67ae7856cbfc91fcec40cadb1a7b958993b92f2501928659a0641"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "b74783718bc18e1a6402c56130612ab2bad97ad23ba2c6ba4b112527ecf6c233"
+hash = "97c877cff4907ba74f20d75f49d2be52da4d70e4ba79b5dfddd038fcc83bb822"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastopenlinksandfolders.toml"
-hash = "43fdcfbe3d14e724bf3c5a37bda4648677b511a296797ae377573308297c5a62"
+hash = "2a1b908703ce72329a592fc713da7a1389b520b431c3946a93f2f3b3234a16af"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "4182071692dedb3ccb7358bf9e000c728fca3d5df2a23e11cd5f12cf69e8bdbf"
+hash = "3cbe58e96b4b85641be54c80e9f1189bb6f7d231ea97daa89c29a40849300a73"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "616e97d7469e44882d95757268cff578fb472b0bc93d90a8d2c998b66b368016"
+hash = "a75fbde7ff35a1aaeaf7570174e6558b0091cf20c2df629c930cdd841586913b"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "2d40012762532d6a0896d7010ccb7245e97311e4b2a25afc53b3e7d107ba659c"
+hash = "d35ca7f1f5f260791fa2b1491471d2899e71ce4c2f84528dcf5d1c1ac4b49cff"
 metafile = true
 
 [[files]]
