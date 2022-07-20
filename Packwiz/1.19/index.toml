@@ -312,11 +312,6 @@ hash = "90934a8f07aad60a6a696e2b63db60f4aa0a5439b89fea95fcd0a100d526da6b"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "a720bfb89268d4926acd6879082a941348de4e8231c82f750395706c4944113e"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "21ae6591048a111fba70d41a57ee0b7f16e73011f970ce88c21d9ccdea170b0a"
 metafile = true
@@ -494,11 +489,6 @@ hash = "615f8158be122f497dc69c3be5026833536bcb0d0dd60f1d61403e58fbe679c2"
 metafile = true
 
 [[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "e7e261187c2043dd6bbf3253c59a52c1ea29bac755f97482b019ebda58f6585b"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "29b8887bfa6d02773b797f8144ecf1522e398d7f3480cec9c2b948eee6989521"
 metafile = true
@@ -557,18 +547,8 @@ hash = "5520c1dc76ba02ac7ab0648ca5facc2e5e65e6f98b5bc1c9b95d6f8be8280238"
 metafile = true
 
 [[files]]
-file = "mods/trading-post.pw.toml"
-hash = "7790b4ee01f221db2831605338ee285b1ab65103aa91bfe7f8066731d77a74dc"
-metafile = true
-
-[[files]]
 file = "mods/tweakeroo-fabric-1.19-0.13.3.jar"
 hash = "cbcd5707b32a47dbb485a75d6d4adedcf4ffbc93e500faa042931ac9fdb31bbe"
-
-[[files]]
-file = "mods/visual-workbench.pw.toml"
-hash = "7981a43bfb760fc761132b690ec19375b56d013c16f6cf33db77e3c9af9ca052"
-metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
