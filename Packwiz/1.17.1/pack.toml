@@ -1,5 +1,5 @@
 name = "Fabulously Optimized"
-version = "2.6.2"
+version = "2.7.3"
 pack-format = "packwiz:1.0.0"
 
 [index]
@@ -8,5 +8,5 @@ hash-format = "sha256"
 hash = "e80d7ee7320eda9148711f0b394125edf680c1d61e73b4025f4f7663f42f872b"
 
 [versions]
-fabric = "0.12.12"
+fabric = "0.13.3"
 minecraft = "1.17.1"

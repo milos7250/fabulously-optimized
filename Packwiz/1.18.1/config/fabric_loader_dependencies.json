@@ -3,7 +3,7 @@
   "overrides": {
     "fabric": {
       "+depends": {
-        "fabricloader": ">=0.12.12"
+        "fabricloader": ">=0.13.1"
       }
     },
     "advancementinfo": {
@@ -24,6 +24,14 @@
     "dcch": {
       "-depends": {
         "minecraft": ""
+      }
+    },
+    "reeses-sodium-options": {
+      "-depends": {
+        "minecraft": ""
+      },
+      "+depends": {
+        "minecraft": "1.18.x"
       }
     }
   }

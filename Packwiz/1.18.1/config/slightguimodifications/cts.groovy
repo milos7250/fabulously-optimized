@@ -10,6 +10,6 @@ mainMenu {
         color = 0xFFFFFF
         hoveredColor = 0x55FFFF
         shadow = true
-        onClicked = url("https://www.curseforge.com/minecraft/modpacks/fabulously-optimized")
+        onClicked = url("https://fabulously-optimized.github.io/")
     }
 }
