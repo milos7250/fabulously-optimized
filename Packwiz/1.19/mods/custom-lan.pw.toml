@@ -1,0 +1,13 @@
+name = "Custom LAN"
+filename = "custom-lan-1.19-v2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0de1163052c2f4a9bad0046be0cec1663b84c74d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3861962
+project-id = 507774
