@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "3a225baa090da48176c80dcd126bf1c0b43498fd7abe71b782392436611d6ffa"
+hash = "40fbd4192515ed365a57916a04c3a5a701558694e331b0bfd1afb90df4be3532"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "0826f4d5e528eea9ba7f6b84f4e1b798bfee59c010439d995fc16bc9f938cd27"
+hash = "94395acd6f7f4169eba18ab28c8a230a29ede89c809b301ca82cf3c1d02c7d34"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "3e0d9672632d67a4960ba88f5cfea5bf312c46af523470ce102e479b5ad2b7cc"
+hash = "ff5a23e14c48eac04cde576d595774b7918bf74e0a5db74bfbb73f7b9e932864"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e5e9cc3b753510f4243bc0fdef37595dffb283a38f9aa368bbba452aa53b811f"
+hash = "1c85df49ef6653679a899b14323d0abe11a99b121c2571f236704d98b4beab24"
 metafile = true
 
 [[files]]
@@ -580,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "d222023a6e786243153a9812fd90a6471ce11d3e70483bc72c7b1fcf5003169b"
+hash = "7697b5c20e6d9b2f173d474673d2fd473961db9e80984ee94333b589d2be7a0e"
 metafile = true
 
 [[files]]
