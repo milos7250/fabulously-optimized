@@ -1,7 +1,8 @@
-# Fabulously Optimized
+# PepegaSanctuary
 
-A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations.
+A fork of the Fabulously Optimized Fabric-based modpack with additional Vanilla+ and client-side utility mods.
 
+# Fabulously optimized
 ## Downloads
 
 [![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) 
