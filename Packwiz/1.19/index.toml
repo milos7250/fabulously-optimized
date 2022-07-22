@@ -25,12 +25,40 @@ file = "config/puzzle.json"
 hash = "2a7c463f581910b0daf713ece461106f92894f9cb4af3655dad13152003005cf"
 
 [[files]]
+file = "config/yosbr/config/bclib/biomes.json"
+hash = "d019310607f2026a4bf4c6b5ad3ac4726d120755551df9f00cc0aac5319dd71d"
+
+[[files]]
+file = "config/yosbr/config/bclib/client.json"
+hash = "4e80c3db27a714ea77e5ed9d04099ab81073c8bb8d2d59bd32c06b62d3526f9f"
+
+[[files]]
+file = "config/yosbr/config/bclib/generator.json"
+hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
+
+[[files]]
+file = "config/yosbr/config/bclib/main.json"
+hash = "78dc14c2ef78fcbe8bfd9a664b5781609a5c00b4068e366bda5f5d57a96fe268"
+
+[[files]]
+file = "config/yosbr/config/bclib/recipes.json"
+hash = "982cc83bfaf9401e8cb95251cde8e03c06667960c4e8cecab9590f5f9f241910"
+
+[[files]]
+file = "config/yosbr/config/bclib/server.json"
+hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
+
+[[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "8695d483f2eb46fac473b8152a608faf84c2e0de5f2c0e270b76113171fb89fe"
+
+[[files]]
 file = "config/yosbr/config/bobby.conf"
 hash = "7668a9ed5d5d6878dd49d552396b7aab57e5345d031a0f776b90f9a477a06195"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
-hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
+hash = "608f2c0b37382bd77f0371801d5c7dcba427eb5498c739e5227aa9061fffa810"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -45,12 +73,16 @@ file = "config/yosbr/config/dynamicfps.toml"
 hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
 
 [[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "f6b8371c227df99f57ddafe1d9d25ec58906a36319f48ff79dd79a465e77f5db"
+
+[[files]]
 file = "config/yosbr/config/entity_texture_features.json"
 hash = "35cb31f6ae8e293fed8e4eb5dff841c1e913ca2342af5fd47296f31024e14950"
 
 [[files]]
 file = "config/yosbr/config/inventoryhud.json"
-hash = "5b5eeb2050db182359dff7a8a93814097e90e1f2f115d5f6e9379ef7c763a833"
+hash = "9898dbfddcad166bbb50c938b3f9cacadfb8eae4a3ead9c046a16add80438eb0"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -58,11 +90,11 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
-hash = "a96351b4d852862f0c994cd61a05856c965e73e8f698591f0f2f5ba9a30bd952"
+hash = "f12a98f3f30567842e3d291b15936a0c86c2a89e650163d46c34a97449f3eeee"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "5b83dbf79c2df634529371bb6fe139fadaf485710212080363a522f2f5983ca6"
+hash = "ff2386991c2c5b5f3987dfac936b2bc32b6940a90e00035802a853d0a54b6e32"
 
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
@@ -81,8 +113,12 @@ file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
+file = "config/yosbr/config/tweakeroo.json"
+hash = "a965d903e14ebe2fd0d547cb6d474c16a18424d67786292c8f54dfcd07024a98"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "6ef8480f9fba06e62895413b954e1e2f91164d0927f1fb279549b648c30ca829"
+hash = "35a2c8dd9820f5817fc34386591378a6e37415969aa994fbd09c1d8a4d4f28c2"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -107,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "f1012d69ed26a4b8b576106f556a1cf3cbded61a3580118792d4ebe9f9264892"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "fc4115abd76427cfdf203686d8a3b4c333dec62a6a0e243ceef27b9c3eacb09c"
 metafile = true
 
 [[files]]
@@ -330,16 +371,6 @@ hash = "0cb1859becba06e139f96d2f99d6a6840d4bf20818753ec6b28f495f1716a4b3"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "09ab32c1e88898e0a0e159a454ddac4173dd36df0edfd90a7cfa417f3d2fb8c9"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-professions-jep.pw.toml"
-hash = "0dc52305f26de467ef2fd559915d49f495699f560b14f9d0e6cfcfd3f096284a"
-metafile = true
-
-[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "0d66d77d7354d3b8d4b89983c3a576895e9d3e74250a8797897ccf6e0291e6e2"
 metafile = true
@@ -457,6 +488,11 @@ hash = "c142ea1d12ea1cdd44f16218eb9e4b295f5e08cd7e3b6b79dc2c9cefd9a7f609"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "287cb1e75ecc414194f174fc24c0675603dc01e928f6fd12fd27fc9c1065e63d"
+metafile = true
+
+[[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "74ede09820c1bfbea65f9a21f871b0cabc7f46f1c36dd050483ec37ddc5019ad"
 metafile = true
@@ -512,6 +548,26 @@ hash = "551a7bf8943f394c48856cb19639a77c73920bf79856f8bd2bb0a113f66b3a8a"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "df0b721ae4a76832ad6e66ef1600f161df6e1b14f3129f33b57e9664ecbba9e5"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "e9ce7950d32441ab9ab5bdddb677a0ee432cafed3a2237390ba04af59b333934"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
+metafile = true
+
+[[files]]
+file = "mods/roughly-searchable.pw.toml"
+hash = "934a6ca1ba3b907137b40bd3ff10fc796ac998f9c1b0affd479ee0bd89c5e480"
+metafile = true
+
+[[files]]
 file = "mods/servux-fabric-1.19-0.1.0.jar"
 hash = "a87ab5aaf2ea2bbc44a67110f54e8245afe03288d2055fd75470c40a21f1aa1a"
 
@@ -522,7 +578,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "612eeff30958ca942d29aa15ddab76e03b2d3de10fa3768dae0e377fbf201f8e"
+hash = "3819426b160a445edb28b35d2286b4a9af8944744191a6ea609903ee685d14bf"
 metafile = true
 
 [[files]]
@@ -610,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "40eed860f9233c84f3adc8e4a0ac431b9a8c913a7499463ade5db90310ba08d8"
+hash = "67b465e35500cdf83b751ded61ee1a1286a1e466a26e9a73353a17c7e2f37d29"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r104067.zip"
