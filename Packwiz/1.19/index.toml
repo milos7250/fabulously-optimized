@@ -262,6 +262,11 @@ hash = "0db89b28d9d11cd967580baed30d7ba8930b3c3a9b9e7426a92664a1f48ef24c"
 metafile = true
 
 [[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "6de6ed3bfabacd583cd27ffcc28509e9b31119658b00282eb74d33846de6595b"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "3b2a4ef95779901931d15ce00bbc0cbd5cec09e2a53d97de8a5cbf25a308c343"
 metafile = true
@@ -540,6 +545,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "4bfa59263c3c2e8b8435eecdd8a944d1345b4b249191ccbadc953f3417b93608"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "5aad6894b3578019b24d073b58e4bf87d44e62296bc277bbfd93a34c8cbbda7d"
 metafile = true
 
 [[files]]
