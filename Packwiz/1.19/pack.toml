@@ -1,11 +1,11 @@
-name = "Fabulously Optimized"
-version = "4.0.0-beta.11"
+name = "PepegaSanctuary"
+version = "4.0.0-beta.11-2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "efd26661a2c110f2681b6b2813812e945fa8ab416b056b9bb2fa1a35358d0936"
+hash = "1a08ee078ef6447016b07f4801337b5e1c046df13d5bb523db0da9e362bcc1b0"
 
 [versions]
 fabric = "0.14.8"
