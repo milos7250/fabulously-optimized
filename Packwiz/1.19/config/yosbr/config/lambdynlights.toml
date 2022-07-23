@@ -1,11 +1,11 @@
-mode = "fastest"
+mode = "fancy"
 
 [light_sources]
 	water_sensitive_check = true
 	block_entities = true
-	entities = false
-	tnt = "simple"
-	creeper = "simple"
+	entities = true
+	tnt = "fancy"
+	creeper = "fancy"
 
 	[light_sources.settings]
 

@@ -46,19 +46,15 @@ hash = "982cc83bfaf9401e8cb95251cde8e03c06667960c4e8cecab9590f5f9f241910"
 
 [[files]]
 file = "config/yosbr/config/bclib/server.json"
-hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
+hash = "540bb3aff08a89f80c22fac544dfb94e3766e90cd3165281fe401da2237d7345"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "8695d483f2eb46fac473b8152a608faf84c2e0de5f2c0e270b76113171fb89fe"
 
 [[files]]
-file = "config/yosbr/config/bobby.conf"
-hash = "7668a9ed5d5d6878dd49d552396b7aab57e5345d031a0f776b90f9a477a06195"
-
-[[files]]
 file = "config/yosbr/config/borderlessmining.json"
-hash = "608f2c0b37382bd77f0371801d5c7dcba427eb5498c739e5227aa9061fffa810"
+hash = "dc0c0e2f6da2a5cde7f16984855727f0fc0060f536640b45563b68fdeee82bb3"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -78,11 +74,11 @@ hash = "f6b8371c227df99f57ddafe1d9d25ec58906a36319f48ff79dd79a465e77f5db"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
-hash = "35cb31f6ae8e293fed8e4eb5dff841c1e913ca2342af5fd47296f31024e14950"
+hash = "b485376ac0dc0f1a3cdcb185cf501cb5b490c3f9369118879dde19b199d1bfbd"
 
 [[files]]
 file = "config/yosbr/config/inventoryhud.json"
-hash = "9898dbfddcad166bbb50c938b3f9cacadfb8eae4a3ead9c046a16add80438eb0"
+hash = "5b5eeb2050db182359dff7a8a93814097e90e1f2f115d5f6e9379ef7c763a833"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -94,7 +90,7 @@ hash = "f12a98f3f30567842e3d291b15936a0c86c2a89e650163d46c34a97449f3eeee"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "ff2386991c2c5b5f3987dfac936b2bc32b6940a90e00035802a853d0a54b6e32"
+hash = "1c0260e7740639ae2449fb21e83d4407cc51b42a3ec1b1a70950405041d95920"
 
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
@@ -114,11 +110,11 @@ hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
-hash = "a965d903e14ebe2fd0d547cb6d474c16a18424d67786292c8f54dfcd07024a98"
+hash = "7840f84d189173761f7f78527ccd37f2f71207ef46d28b611c03fd9bcffebbf2"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "35a2c8dd9820f5817fc34386591378a6e37415969aa994fbd09c1d8a4d4f28c2"
+hash = "38187e8311b455aa832132578a081c23eee5f23f66d792ef3da3ec0c259b85fe"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -188,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "46235e51c95b88d77138b4832e7dabfd51efa40b504632a88c36eba04a79963c"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "3dbdc65d048bbeb372d5e714c5026a832da38322d39a634e2944d17dc0195b9d"
 metafile = true
 
 [[files]]
@@ -333,11 +334,6 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "54566a4d869db8c6139ed8900bbb2a3977f5328dcfcf9e43f1b63d008c93a43a"
-metafile = true
-
-[[files]]
-file = "mods/farsight-fabric.pw.toml"
-hash = "15703ff475fc638bdc8a4d62b708d517be68f86069611e84149cf126f2d76187"
 metafile = true
 
 [[files]]
