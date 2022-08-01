@@ -1,11 +1,11 @@
 name = "PepegaSanctuary"
-version = "4.0.0-beta.11-2.1"
+version = "4.0.0-beta.11-2.2-alpha.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "cc0eba3fc8b220eda119194342e9ea0c26097f3c380fc26435ef52ed8287a783"
+hash = "c21c1ca184ff2bcb728fd14cf53154d7878562c9c376dec26c3e90cf9cb7c9f7"
 
 [versions]
 fabric = "0.14.8"
