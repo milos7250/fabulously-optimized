@@ -14,7 +14,7 @@ hash = "5c0926fe0e7686e798d0486781a0c6510394e4a5a96f2d7f2952761cef64f9c5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fe17255bd90838c47f3ad344808b0d52df6aa08d91d6589904e5c4dfcdd40614"
+hash = "7bdbd5b2b22b9cefb091eb7f341ed6747ca2f7c9fe9e230aa339f6e1c5865eb2"
 
 [[files]]
 file = "config/modmenu.json"
@@ -90,7 +90,7 @@ hash = "f12a98f3f30567842e3d291b15936a0c86c2a89e650163d46c34a97449f3eeee"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "1c0260e7740639ae2449fb21e83d4407cc51b42a3ec1b1a70950405041d95920"
+hash = "8d722a9d0164efb1cec2551c420261686f22c128712ed322606c95a987c2125a"
 
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
@@ -560,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-searchable.pw.toml"
-hash = "934a6ca1ba3b907137b40bd3ff10fc796ac998f9c1b0affd479ee0bd89c5e480"
+hash = "2007d0f21746ac1375402a9857afd0c6804f817acfd06281c9b31ef6de3c3b73"
 metafile = true
 
 [[files]]
