@@ -90,7 +90,7 @@ hash = "f12a98f3f30567842e3d291b15936a0c86c2a89e650163d46c34a97449f3eeee"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "8d722a9d0164efb1cec2551c420261686f22c128712ed322606c95a987c2125a"
+hash = "e1fdf9e0def579b838ad87afcf968f01560745fb788442acbd10ee04a52654f4"
 
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
