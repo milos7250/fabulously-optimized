@@ -14,7 +14,8 @@ Supports CurseForge Launcher, MultiMC, GDLauncher and vanilla launcher. [Install
 
 _These downloads do not yet support the modpack or the mods :(_
 * [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/fabulously-optimized) [(experimental!)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/63)
-* [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | ~[1.18](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.0.0-alpha.4/Fabulously.Optimized.MC.1.18.auto-update.zip)~ ⚰️ | ~[1.18.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.18.1.auto-update.zip)~ ⚰️ | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.10.1/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.0.0-beta.2/Fabulously.Optimized.MC.1.19.auto-update.zip)
+* [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.10.1/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.1.0-alpha.1/Fabulously.Optimized.MC.1.19.1.auto-update.zip)
+  * Legacy - unsupported: ~[1.18](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.0.0-alpha.4/Fabulously.Optimized.MC.1.18.auto-update.zip)~ | ~[1.18.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.18.1.auto-update.zip)~ | ~[1.19](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.0.0-beta.2/Fabulously.Optimized.MC.1.19.auto-update.zip)~
 * ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 
@@ -58,8 +59,8 @@ See also: [List of bugs fixed in the modpack](https://fabulously-optimized.gitbo
 
 Help is provided by:
 
-* [Wiki](https://fabulously-optimized.gitbook.io/modpack/)
-* [Discord](https://discord.gg/yxaXtaQqdB)
+* [Wiki](https://fabulously-optimized.gitbook.io/modpack/) (how to install, update etc.)
+* [Discord](https://discord.gg/yxaXtaQqdB) (support, update notifications, etc)
 * [Issues](https://github.com/Fabulously-Optimized/fabulously-optimized/issues) (mod suggestions, bug reports)
 * [CurseForge listing comments](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized#comments) (questions and general comments only)
 
@@ -76,7 +77,7 @@ By using this modpack, you agree to the following:
 * This modpack disables the [third-party server disclaimer](https://minecraft.fandom.com/wiki/File:Multiplayer_disclaimer.png), so if you are using the multiplayer function, you also agree to the following: 
     > Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone. 
 
-* [The "social interactions" screen](https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage) can be used by pressing the key `P` in-game, where players can ignore others' chat messages or block them with the Microsoft account entirely. 
+* [The "social interactions" screen](https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage) can be used by pressing the key `P` in-game or the `Player Reporting` button in the pause menu, where players can ignore others' chat messages or block them with the Microsoft account entirely. However, chat reporting itself is discouraged due to player security and privacy concerns [(see the Chat Reporting FAQ)](https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq).
    
 * Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape), while also giving them options to use any paid cosmetics they've previously obtained from certain providers.
    

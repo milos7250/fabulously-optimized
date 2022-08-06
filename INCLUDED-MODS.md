@@ -5,7 +5,7 @@ Here you can find the mod comparison table between the currently supported Minec
 The selected mods are inspired, but not limited by the [list of OptiFine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options).
 
 ## Smooth
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19&nbsp;&nbsp; | Description |
+| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.1 | Description |
 |---|---|---|---|---|---|---|
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust) | &nbsp;&nbsp;✔️ |  |  |  | Makes beds render faster |
 | [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | [juliand665](https://www.curseforge.com/members/juliand665) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Renders Minecraft slower if it is in the background to reduce CPU usage |
@@ -18,7 +18,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | [tuxed](https://www.curseforge.com/members/tuxed) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes the game startup faster |
 | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Optimizes game physics and chunk loading |
 | [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) | [FX_PR0CESS](https://www.curseforge.com/members/fx_pr0cess) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Fixes several memory leaks |
-| [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) | [FX_PR0CESS](https://www.curseforge.com/members/fx_pr0cess) |  |  |  | &nbsp;&nbsp;✔️ | Stops rendering hidden sides of blocks (currently not reflected in Mod Menu Helper) |
+| [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) | [FX_PR0CESS](https://www.curseforge.com/members/fx_pr0cess) |  |  |  | &nbsp;&nbsp;✔️ | Stops rendering hidden sides of blocks |
 | [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes game startup and resource packs switch faster by removing fade animations |
 | [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  | Optimizes light rendering |
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Improves the overall responsiveness of the game (less likely to freeze) |
@@ -28,9 +28,9 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 ¹ [Not from CurseForge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 
 ## Pretty
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19&nbsp;&nbsp; | Description |
+| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.1 | Description |
 |---|---|---|---|---|---|---|
-| [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) | [Giserbaer](https://www.curseforge.com/members/Giserbaer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes the advancement pages bigger, adds a requirement list and search bar |
+| [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) | [Giserbaer](https://www.curseforge.com/members/Giserbaer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes the advancement pages bigger, adds a requirement list and search bar (currently not shown in Mod Menu Helper) |
 | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds OptiFine's animated textures support |
 | [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | [Lortseam_](https://www.curseforge.com/members/Lortseam_) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Shows horse health and player's food via HUD at the same time, Automatically changes to jump bar when jumping with horse |
 | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) | [SHsuperCM](https://www.curseforge.com/members/SHsuperCM) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds OptiFine's custom item textures support |
@@ -57,7 +57,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Ensures all possible tooltips fit to screen |
 
 ## Functional
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19&nbsp;&nbsp; | Description |
+| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.1 | Description |
 |---|---|---|---|---|---|---|
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | [Giselbaer](https://www.curseforge.com/members/Giselbaer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Fixes glitching blocks by typing /ghost (repetitively using this can likely alert staff members in-game) |
 | [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | [comp500](https://www.curseforge.com/members/comp500) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Allows you to have Minecraft in full screen and interact with a different window (disabled by default) |
@@ -70,7 +70,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [Mixin Conflict Helper](https://www.curseforge.com/minecraft/mc-mods/mixin-conflict-helper) | [isXander](https://www.curseforge.com/members/xanderisdev) |  |  |  | &nbsp;&nbsp;✔️ | Shows an user-readable alert when two mods conflict |
 | [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) | [TerraformersMC](https://www.curseforge.com/members/TerraformersMC) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds a mod list with descriptions (keep bundled resource pack enabled for better experience!) |
 | [More Chat History](https://www.curseforge.com/minecraft/mc-mods/more-chat-history) | [JackFred2](https://www.curseforge.com/members/JackFred2) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Increases chat history limit |
-| [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) | [Aizistral](https://www.curseforge.com/members/aizistral) |  |  |  | &nbsp;&nbsp;✔️ | Protects you and others from some account bans |
+| [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) | [Aizistral](https://www.curseforge.com/members/aizistral) |  |  |  | &nbsp;&nbsp;✔️ | Improves privacy and reverts some visual changes on chat |
 | [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) | [NatanFudge](https://www.curseforge.com/members/NatanFudge) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Allows playing after a crash and getting the crash report as a link |
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Keeps your settings when updating the modpack |
 | [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) | [alexander9892](https://www.curseforge.com/members/alexander9892) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  | Adds a scrollable zoom feature |
@@ -80,7 +80,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 
 Mods that make other mods work. Hidden from in-game mod menu, but should not be removed.
 
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19&nbsp;&nbsp; | Description |
+| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.1 | Description |
 |---|---|---|---|---|---|---|
 | [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  | Makes some mods work |
 | [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp) | [one_point_o](https://www.curseforge.com/members/one_point_o) | | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods work |

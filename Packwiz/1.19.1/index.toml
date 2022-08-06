@@ -6,7 +6,7 @@ hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
 [[files]]
 file = "config/debugify.json"
-hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
+hash = "8e683a923285b2661e1492cf5ee17d4415478e70f8b06bf7c01a65afa705f471"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -14,7 +14,7 @@ hash = "5c0926fe0e7686e798d0486781a0c6510394e4a5a96f2d7f2952761cef64f9c5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7bdbd5b2b22b9cefb091eb7f341ed6747ca2f7c9fe9e230aa339f6e1c5865eb2"
+hash = "6f58b84fd5bbd50587e935b6d0a7958206e75b412b7c5982f57ad880d7f5e31e"
 
 [[files]]
 file = "config/modmenu.json"
@@ -22,7 +22,11 @@ hash = "b2d6f97d6f09d3c02504264a778ab1958378c91e5d743afed9ab71846073bf60"
 
 [[files]]
 file = "config/puzzle.json"
-hash = "2a7c463f581910b0daf713ece461106f92894f9cb4af3655dad13152003005cf"
+hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports.json"
+hash = "ce052ce133fcc17bf3151ec2634431ba11342d60da3bf0383117f4a1116d6e0f"
 
 [[files]]
 file = "config/yosbr/config/bclib/biomes.json"
@@ -53,8 +57,12 @@ file = "config/yosbr/config/betterf3.json"
 hash = "8695d483f2eb46fac473b8152a608faf84c2e0de5f2c0e270b76113171fb89fe"
 
 [[files]]
+file = "config/yosbr/config/bobby.conf"
+hash = "7668a9ed5d5d6878dd49d552396b7aab57e5345d031a0f776b90f9a477a06195"
+
+[[files]]
 file = "config/yosbr/config/borderlessmining.json"
-hash = "dc0c0e2f6da2a5cde7f16984855727f0fc0060f536640b45563b68fdeee82bb3"
+hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -74,7 +82,7 @@ hash = "f6b8371c227df99f57ddafe1d9d25ec58906a36319f48ff79dd79a465e77f5db"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
-hash = "b485376ac0dc0f1a3cdcb185cf501cb5b490c3f9369118879dde19b199d1bfbd"
+hash = "35cb31f6ae8e293fed8e4eb5dff841c1e913ca2342af5fd47296f31024e14950"
 
 [[files]]
 file = "config/yosbr/config/inventoryhud.json"
@@ -86,7 +94,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
-hash = "f12a98f3f30567842e3d291b15936a0c86c2a89e650163d46c34a97449f3eeee"
+hash = "b2b095f8858b8f8296a0836f83a5aaff73d1ccd3f1c9e29b3601a3afde144937"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -334,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "54566a4d869db8c6139ed8900bbb2a3977f5328dcfcf9e43f1b63d008c93a43a"
+metafile = true
+
+[[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "35ede7e1fc3181ecac4f75f57a7c64eef817d8336395d76df8c1228b685895c4"
 metafile = true
 
 [[files]]
@@ -667,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "67b465e35500cdf83b751ded61ee1a1286a1e466a26e9a73353a17c7e2f37d29"
+hash = "65de574d1ad10a12341f51697391532c5fcbd63f9d9b122cd81be78b00745387"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r104067.zip"

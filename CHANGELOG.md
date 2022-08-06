@@ -1,7 +1,52 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.19.1
+
+### 4.1.0-beta.2 (2022-08-02)
+
+- Updated Farsight, Indium, MemoryLeakFix, MoreCulling, No Chat Reports, Puzzle, Zoomify
+  - Zoomify and MoreCulling received major updates
+  - Puzzle no longer shows buttons that lead to empty screens in its settings
+- Adjusted No Chat Reports
+  - Adjusted description in MMH to reflect its features better
+  - Re-enabled convertToGameMessage again as it still turned out to be useful in LAN
+  - You can now report others on servers that allow reports, use it only in case of real danger
+
+### 4.1.0-beta.1 (2022-07-30)
+
+- Readded Lithium
+- Updated AdvancementInfo, AntiGhost, NoChatReports
+  - AdvancementInfo and AntiGhost are now smaller in size
+  - Currently AdvancementInfo is not shown in Mod Menu Helper
+  - NoChatReports fixed Realms access
+- Adjusted NoChatReports to disable convertToGameMessage (unnecessary in LAN) and enable vanilla's yellow messages (informative)
+
+### 4.1.0-alpha.2 (2022-07-27)
+
+- Temporarily removed Lithium
+  - Because keeping it as disabled caused many problems
+
+### 4.1.0-alpha.1 (2022-07-26)
+
+It's time to start testing 1.19.1. Read the FAQ: https://fabulously-optimized.gitbook.io/modpack/readme/1-19-1-faq
+Also, we've reached 500k downloads on CurseForge and almost 20k downloads on Modrinth! Thank you again for your support!
+
+- Updated Debugify, Fabric API, MemoryLeakFix, Mod Menu, More Chat History, MoreCulling, No Chat Reports
+- Temporarily disabled Lithium
+
+- Disabled bugfixes MC-145929 and MC-148149 on Debugify as they are now fixed in vanilla
+- Configured No Chat Reports for 1.19.1
+- Updated Korean and Turkish in MMH by AlphaKR93 and localfossa
+
 ## 1.19
+
+### 4.0.0-beta.12 (2022-07-26)
+
+- Updated Entity Texture Features, Fabric API, Iris Shaders, MoreCulling, Sodium Extra
+  - ETF and Iris received major performance upgrades
+- Fixed MoreCulling in MMH for English and Estonian
+- Updated Turkish in MMH by localfossa and egeesin
 
 ### 4.0.0-beta.11 (2022-07-21)
 
@@ -190,6 +235,14 @@ Other
 * Disabled Iris' update checker
 
 ## 1.18.2
+
+### 3.12.1 (2022-07-30)
+
+- Updated Fabric API, Fabric Language Kotlin, Iris Shaders, MemoryLeakFix, Reese's Sodium Options, Sodium Extra
+  - Iris received a major performance upgrade
+- Removed duplicate config files from YOSBR folder
+  - This was there to make resetting settings a bit easier when needed, but now a better method is described in the wiki
+- Backported MMH language updates
 
 ### 3.12.0 (2022-07-14)
 
