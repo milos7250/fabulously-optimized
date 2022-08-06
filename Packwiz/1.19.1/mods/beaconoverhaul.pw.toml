@@ -1,0 +1,13 @@
+name = "Beacon Overhaul"
+filename = "BeaconOverhaul-1.7.2+1.19.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0bba1e16d713506064c28a37c03b0bc47e5ab5c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3914410
+project-id = 430382

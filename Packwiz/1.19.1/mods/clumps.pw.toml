@@ -1,0 +1,13 @@
+name = "Clumps"
+filename = "Clumps-fabric-1.19.1-9.0.0+10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f57c2007e6c10b0a731167480b44659368c48a6b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3913407
+project-id = 256717

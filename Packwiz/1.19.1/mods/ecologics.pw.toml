@@ -1,0 +1,13 @@
+name = "Ecologics"
+filename = "ecologics-fabric-1.19-2.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2733cb950c1f85797cbbde57b179f9a2718ab09"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3877289
+project-id = 570463
