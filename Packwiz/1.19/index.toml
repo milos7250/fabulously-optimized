@@ -187,6 +187,11 @@ hash = "46235e51c95b88d77138b4832e7dabfd51efa40b504632a88c36eba04a79963c"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "3dbdc65d048bbeb372d5e714c5026a832da38322d39a634e2944d17dc0195b9d"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "40fbd4192515ed365a57916a04c3a5a701558694e331b0bfd1afb90df4be3532"
 metafile = true
@@ -274,11 +279,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "5fd5932eceeec0614a2934dc0182111f335c937e6d52eb7bf313e6a8c1f62bde"
-metafile = true
-
-[[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "cb629e2c98ba791f1b05ec6ae535ef9803dda6178ff24b338a042d5ab53232d2"
 metafile = true
 
 [[files]]
