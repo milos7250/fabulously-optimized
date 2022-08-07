@@ -1,13 +1,13 @@
 name = "Beacon Overhaul"
-filename = "BeaconOverhaul-1.7.0+1.19.jar"
+filename = "BeaconOverhaul-1.7.1+1.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6d7f8cf53e0ca4a7bfa311fb649f1763be748244"
+hash = "81c93b3cfc0c090d2607a24003bd9382afba2e5c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3832637
+file-id = 3914407
 project-id = 430382
