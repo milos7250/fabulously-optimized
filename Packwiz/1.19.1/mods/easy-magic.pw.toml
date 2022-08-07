@@ -1,0 +1,13 @@
+name = "Easy Magic"
+filename = "EasyMagic-v4.1.0-1.19.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6a51a5ad8ea232fc1e57750a137e1f76ff5669c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3907729
+project-id = 456239

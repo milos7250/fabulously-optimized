@@ -1,0 +1,13 @@
+name = "Charm of Undying (Fabric)"
+filename = "charmofundying-fabric-6.0.0-beta.3+1.19.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01acd27fda1d16fdf190ad6009f17bd6721632fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3905464
+project-id = 395547

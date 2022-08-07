@@ -1,0 +1,13 @@
+name = "🔨 Frame API"
+filename = "frame-fabric-0.26.0+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f31c9679569140618a4500fe9018c5179b169cc8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3904074
+project-id = 580137

@@ -1,0 +1,13 @@
+name = "Warden Tools"
+filename = "warden-tools-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e9551431d29d3da9256d2093892c9f8bec375a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3914168
+project-id = 635510

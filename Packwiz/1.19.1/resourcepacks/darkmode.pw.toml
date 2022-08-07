@@ -1,0 +1,13 @@
+name = "Darkmode"
+filename = "darkpack-v2.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "18c309bda7ea89e1ea9f3c9e2ae08bacaebca0ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3824954
+project-id = 403506

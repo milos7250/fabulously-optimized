@@ -1,0 +1,13 @@
+name = "MoreMcmeta (Fabric)"
+filename = "moremcmeta-1.19-3.0.5-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bb7651185d532fbf07810e9e78972c36eb2bb5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3879264
+project-id = 506079
